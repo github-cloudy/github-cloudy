@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=githubcloudy" alt="githubcloudy" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently working on AWS & AZURE CLOUD.
 
 - 💬 Ask me about **Docker, Kubernates, Ci/Cd, Aws, Terraform, ansible, grafana**
 
