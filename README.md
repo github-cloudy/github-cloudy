@@ -78,12 +78,36 @@
 </p>
 
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kishan lahare-15bb52b0/"arget="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan lahare" height="30" width="40" /></a>
 <a href="https://instagram.com/krishnaalahare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishnaalahare" height="30" width="40" /></a>
 </p>
+
+
+## 📊 Github Stats (Expand to View) 
+  
+ <details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=github-cloudy&theme=2077" alt="github-cloudy" /></p>
+
+</details>
+
+  <details>
+  <summary><b>📈 My Top Languages</b></summary>
+
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=github-cloudy&theme=aura" alt="github-cloudy" 
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=github-cloudy&theme=aura" alt="github-cloudy" /></p>
+</details> 
+
+  </details>
+    <details>
+  <summary><b>📈 My Contributions</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=github-cloudy&theme=great_gatsby" alt="github-cloudy" /></p>
+ 
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=githubcloudy&show_icons=true&locale=en&layout=compact" alt="githubcloudy" /></p>
