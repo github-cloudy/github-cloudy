@@ -1,3 +1,22 @@
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=github-cloudy&label=Profile%20views&color=0e75b6&style=flat" alt="github-cloudy" /> </p>
+
+<h1 align="center">Hi , I'm Kishan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ -->
+
+<h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Kishan+;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" /></a></h3>
+ 
+<p align="center" >
+  <samp>
+    Hey, My name is <em>Kishan Lahare</em> and I am a DevOps⚙️ Engineer who is deeply committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery.🤖 :)
+  </samp>
+  <br/>
+</p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=github-cloudy&theme=algolia" alt="github-cloudy" /></p>
+
+
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
+
 
 <h1 align="center">Hi 👋, I'm Kishan Lahare</h1>
 <h3 align="center">A passionate DevOps Engineer willing to implement my DevOps skills in a organization
