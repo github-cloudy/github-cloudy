@@ -19,6 +19,8 @@
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
 
+
+
 - 🌱 I’m currently working on AWS & AZURE CLOUD.
 
 - 💬 Ask me about **Docker, Kubernates, Ci/Cd, Aws, Terraform, ansible, grafana**
@@ -107,8 +109,6 @@
    
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=github-cloudy&theme=great_gatsby" alt="github-cloudy" /></p>
  
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=githubcloudy&show_icons=true&locale=en&layout=compact" alt="githubcloudy" /></p>
 
